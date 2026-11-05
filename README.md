@@ -21,3 +21,16 @@ gene expression and first-pass metabolic capacity.
 | **GSE139602** | GPL13667 | 39 | 6 | 20 | 5 eCLD, 8 ACLF; progressive disease staging | **No** | *Underpowered* — Healthy control group ($n=6$) is too small. |
 | **GSE25097** | GPL10687 | 557 | 6 | 40 | 268 tumor, 243 non-tumor | **No** | *Underpowered* — Healthy control group ($n=6$) is too small. |
 | **GSE6764** | GPL570 | 75 | 10 | 13 | 52 dysplasia / HCC stages | **No** | *Underpowered* — Neither group reaches $n=15$. |
+
+## Project Progress and Roadmap
+
+| Stage | Description | Status | Key Deliverables |
+| :--- | :--- | :--- | :--- |
+| Stage 1 | Research Question Definition | Done | Formulated hypothesis on CYP gene downregulation in cirrhotic livers. |
+| Stage 2 | Dataset Selection | Done | Selected GSE14323 (19 healthy, 58 cirrhosis). |
+| Stage 3 | Preprocessing and QC | Done | Filtered low-variance probes (22,277 down to 20,049). |
+| Stage 4 | Probe-to-Gene Mapping | Pending | Pending |
+| Stage 5 | Differential Expression | Pending | Pending |
+| Stage 6 | Visualization & EDA | Pending | Pending |
+| Stage 7 | Machine Learning | Pending | Pending |
+| Stage 8 | Documentation | Pending | Pending |
