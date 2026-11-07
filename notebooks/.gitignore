@@ -1,0 +1,5 @@
+**/geodata/
+*.soft.gz
+.ipynb_checkpoints/
+.venv/
+.idea/
