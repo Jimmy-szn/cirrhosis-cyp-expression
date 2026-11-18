@@ -1,0 +1,17 @@
+{
+  "samples": {"healthy": 19, "cirrhosis": 41, "cirrhosis_before_hcc_filter": 58, "genes_tested": 12316},
+  "de_all": {"sig_down": 4325, "sig_up": 3520, "not_sig": 4471, "strong_down": 739, "strong_up": 1382},
+  "panel": {"tested": 16, "down": 3, "up": 5, "ns": 8, "missing": ["UGT2B7"]},
+  "cell_scores_p": {"hepatocyte": 0.24, "fibrosis": 4.5e-14, "ductular": 3e-28, "immune": 8.4e-26},
+  "ml": {
+    "best_feature_set": "B: top-50 genes (all genes)",
+    "best_model": "Random Forest",
+    "oof_roc_auc": 1.0,
+    "oof_misclassified": 0,
+    "perm_balanced_accuracy": 1.0,
+    "perm_mean": 0.505,
+    "perm_p": 0.005,
+    "perm_n": 200,
+    "majority_baseline_accuracy": 0.683
+  }
+}

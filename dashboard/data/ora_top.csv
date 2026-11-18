@@ -1,0 +1,21 @@
+direction,library,term,fdr
+Down in cirrhosis,KEGG,Protein processing in endoplasmic reticulum,6.2e-15
+Down in cirrhosis,KEGG,N-Glycan biosynthesis,0.00025
+Down in cirrhosis,KEGG,Protein export,0.0003
+Down in cirrhosis,KEGG,Steroid biosynthesis,0.0003
+Down in cirrhosis,KEGG,Complement and coagulation cascades,0.00073
+Down in cirrhosis,GO BP,Protein N-linked Glycosylation,0.00016
+Down in cirrhosis,GO BP,Sterol Biosynthetic Process,0.00016
+Down in cirrhosis,GO BP,Intracellular Zinc Ion Homeostasis,0.00051
+Down in cirrhosis,GO BP,Response To Endoplasmic Reticulum Stress,0.00051
+Down in cirrhosis,GO BP,Secondary Alcohol Biosynthetic Process,0.0013
+Up in cirrhosis,KEGG,Viral myocarditis,4e-09
+Up in cirrhosis,KEGG,Rheumatoid arthritis,2e-08
+Up in cirrhosis,KEGG,Epstein-Barr virus infection,2e-08
+Up in cirrhosis,KEGG,Phagosome,2e-08
+Up in cirrhosis,KEGG,Allograft rejection,8.7e-08
+Up in cirrhosis,GO BP,Regulation Of Cell Migration,1.5e-10
+Up in cirrhosis,GO BP,Antigen Receptor-Mediated Signaling Pathway,3.7e-08
+Up in cirrhosis,GO BP,Inflammatory Response,1.3e-07
+Up in cirrhosis,GO BP,T Cell Receptor Signaling Pathway,4.4e-07
+Up in cirrhosis,GO BP,Positive Regulation Of MAPK Cascade,2e-06

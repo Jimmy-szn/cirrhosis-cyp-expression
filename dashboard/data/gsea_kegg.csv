@@ -1,0 +1,31 @@
+Term,NES,NOM p-val,FDR q-val
+Protein processing in endoplasmic reticulum,-2.1546,0.0,0.0038
+N-Glycan biosynthesis,-1.8861,0.0,0.0271
+Protein export,-1.8835,0.005,0.0186
+Propanoate metabolism,-1.8587,0.0,0.0178
+Olfactory transduction,-1.7399,0.003,0.0382
+Neuroactive ligand-receptor interaction,-1.6335,0.0,0.0863
+Fat digestion and absorption,-1.5935,0.005,0.1035
+Folate biosynthesis,-1.5934,0.0284,0.0905
+Nicotinate and nicotinamide metabolism,-1.5144,0.0226,0.148
+Terpenoid backbone biosynthesis,-1.5,0.0405,0.1487
+Peroxisome,-1.4719,0.0219,0.1655
+Glycerolipid metabolism,-1.4028,0.0733,0.257
+Fatty acid biosynthesis,-1.3404,0.0947,0.3568
+Pantothenate and CoA biosynthesis,-1.3366,0.1149,0.3398
+Starch and sucrose metabolism,-1.3329,0.1181,0.3251
+Systemic lupus erythematosus,2.1846,0.0,0.0001
+Antigen processing and presentation,2.2404,0.0,0.0
+Hematopoietic cell lineage,2.2483,0.0,0.0
+Leukocyte transendothelial migration,2.2519,0.0,0.0
+Intestinal immune network for IgA production,2.2764,0.0,0.0
+Autoimmune thyroid disease,2.2804,0.0,0.0
+Phagosome,2.3357,0.0,0.0
+Leishmaniasis,2.3557,0.0,0.0
+Cell adhesion molecules,2.3948,0.0,0.0
+Asthma,2.4019,0.0,0.0
+Rheumatoid arthritis,2.4345,0.0,0.0
+Graft-versus-host disease,2.4748,0.0,0.0
+Type I diabetes mellitus,2.5244,0.0,0.0
+Allograft rejection,2.5321,0.0,0.0
+Viral myocarditis,2.6405,0.0,0.0

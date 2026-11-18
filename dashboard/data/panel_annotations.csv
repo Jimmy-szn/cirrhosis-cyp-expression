@@ -1,0 +1,17 @@
+gene,class,example_substrates,log2FC_adj_hepatocyte,padj_adj_hepatocyte,lr_coef,rf_importance
+CYP2C19,Phase I,"clopidogrel (activation), omeprazole/PPIs, diazepam, citalopram",-1.5223,0.0003,-0.405,0.092
+CYP1A2,Phase I,"caffeine, theophylline, clozapine, olanzapine",-0.7921,0.019,-0.247,0.04
+CYP2E1,Phase I,"paracetamol (toxic NAPQI formation), ethanol, isoniazid, volatile anaesthetics",-0.5809,0.0,-0.435,0.179
+SLC22A1,Transporter (uptake),"metformin, morphine, sumatriptan",-0.4478,0.0476,-0.28,0.033
+SULT1E1,Phase II,"oestradiol, ethinylestradiol",-0.4061,0.0265,-0.18,0.023
+CYP2D6,Phase I,"codeine/tramadol (activation), metoprolol, tamoxifen",-0.2649,0.227,-0.137,0.012
+SLCO1B1,Transporter (uptake),"statins, methotrexate, rifampicin",-0.008,0.9536,-0.074,0.025
+SULT2A1,Phase II,"DHEA, bile acids",0.1177,0.6162,0.04,0.016
+UGT1A1,Phase II,"bilirubin, irinotecan (SN-38)",0.4104,0.0044,0.095,0.026
+CYP3A5,Phase I,tacrolimus,0.4246,0.0318,0.177,0.074
+CYP2C9,Phase I,"warfarin, phenytoin, NSAIDs, losartan",0.524,0.0029,0.151,0.021
+SULT1A2,Phase II,"phenolic compounds, N-hydroxy arylamines",0.7484,0.0,0.255,0.062
+SULT1A1,Phase II,"paracetamol, minoxidil, phenolic drugs",0.7416,0.0,0.235,0.052
+ABCB1,Transporter (efflux),"digoxin, dabigatran, many CYP3A4 substrates",0.932,0.0,0.571,0.212
+CYP3A4,Phase I,"midazolam, tacrolimus, simvastatin; ~30-50% of marketed drugs",1.4102,0.0006,0.284,0.045
+GSTA1,Phase II,busulfan; glutathione conjugation of electrophiles incl. NAPQI,2.3175,0.0,0.41,0.088

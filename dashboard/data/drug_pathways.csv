@@ -1,0 +1,7 @@
+pathway,genes_tested,n_down,n_up,median_log2FC,GSEA_NES,GSEA_FDR,ORA_down_FDR,ORA_up_FDR
+Metabolism of xenobiotics by cytochrome P450,51,6,18,0.2788,1.4404,0.0863,0.9177,0.0354
+Retinol metabolism,40,12,10,0.0016,-0.6739,1.0,0.5468,0.2014
+Steroid hormone biosynthesis,41,11,9,-0.066,-0.5692,1.0,0.0218,0.5643
+Glutathione metabolism,45,10,16,0.0319,1.1756,0.3387,0.6738,0.488
+ABC transporters,35,14,11,-0.1332,1.2397,0.2487,0.7378,0.0209
+Bile secretion,68,15,22,0.0147,1.3621,0.1271,0.8493,0.0158

@@ -1,0 +1,11 @@
+feature_set,model,balanced_accuracy_mean,balanced_accuracy_sd,roc_auc_mean,roc_auc_sd,f1_mean,f1_sd,accuracy_mean,accuracy_sd
+A: drug-metabolism panel,Baseline (majority),0.5,0.0,0.5,0.0,0.811,0.023,0.683,0.033
+A: drug-metabolism panel,Logistic Regression,0.988,0.024,0.999,0.006,0.987,0.026,0.983,0.033
+A: drug-metabolism panel,Linear SVM,0.978,0.039,0.998,0.008,0.982,0.028,0.977,0.037
+A: drug-metabolism panel,RBF SVM,0.944,0.07,0.992,0.021,0.964,0.041,0.952,0.056
+A: drug-metabolism panel,Random Forest,0.93,0.091,0.998,0.011,0.965,0.039,0.95,0.058
+B: top-50 genes (all genes),Baseline (majority),0.5,0.0,0.5,0.0,0.811,0.023,0.683,0.033
+B: top-50 genes (all genes),Logistic Regression,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+B: top-50 genes (all genes),Linear SVM,0.999,0.008,1.0,0.0,0.999,0.008,0.998,0.012
+B: top-50 genes (all genes),RBF SVM,0.999,0.008,1.0,0.0,0.999,0.008,0.998,0.012
+B: top-50 genes (all genes),Random Forest,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
